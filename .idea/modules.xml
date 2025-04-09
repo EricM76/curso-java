@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/clase_01_presentacion/Exercises/Exercises.iml" filepath="$PROJECT_DIR$/clase_01_presentacion/Exercises/Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clase_02_fundamentos/ProyectoEcommerce/ProyectoEcommerce.iml" filepath="$PROJECT_DIR$/clase_02_fundamentos/ProyectoEcommerce/ProyectoEcommerce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clase_01_presentacion/ProyectoEcommerce/ProyectoEcommerce2.iml" filepath="$PROJECT_DIR$/clase_01_presentacion/ProyectoEcommerce/ProyectoEcommerce2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/curso-java.iml" filepath="$PROJECT_DIR$/.idea/curso-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clase_02_fundamentos/helloWord/helloWord.iml" filepath="$PROJECT_DIR$/clase_02_fundamentos/helloWord/helloWord.iml" />
+    </modules>
+  </component>
+</project>
