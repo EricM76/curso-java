@@ -16,8 +16,7 @@ public class App
         System.out.println( "Hello World!" );
         // java es key sensitive, distigue entre mayusculas y minusculas
         // variables en JAVA tipo nombre = valor;
-        byte numeroUno;
-        numeroUno = 100; // de -128 a 127
+        byte numeroUno = 100; // de -128 a 127
         short numeroDos = 2;// de -32768 a 32767
         int numeroTres = 3;// de -2147483648 a 2147483647
         long numeroCuatro = 4;// de -9223372036854775808 a 9223372036854775807
